@@ -3,7 +3,7 @@
   "rom_name": "快乐肥龙.zip",
   "pack_sgsi": "肥龙快乐.zip",
   "make_type": "A",
-  "rom_type": "colosos",
+  "rom_type": "colos",
   "light_fix": true,
   "bug_fix": true,
   "version": "11",
